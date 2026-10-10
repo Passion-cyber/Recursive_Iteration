@@ -93,7 +93,7 @@ const Hero = () => {
             <h1 className="hero-name a-fu d2">
               Ibelachi
               <br />
-              <em>Franklyn</em>
+              <em>Chinedu</em>
             </h1>
             {/* Animated title */}
             <div
