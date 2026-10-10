@@ -1,9 +1,0 @@
-.noteWorthyLinks {
-    color: var(--darker-white-color);
-    transition: all 0.3s ease-in;
-  }
-  
-  .noteWorthyLinks:hover {
-    color: var(--secondary-color);
-  }
-  
